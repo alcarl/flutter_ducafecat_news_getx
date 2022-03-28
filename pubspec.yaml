@@ -80,7 +80,7 @@ dependencies:
   path_provider: ^2.0.1
 
   # permission 权限
-  permission_handler: ^7.1.0
+  permission_handler: ^8.3.0 #sdk 31 需要8用7会报错蓝牙管理
 
   # 错误收集
   sentry: ^5.0.0
